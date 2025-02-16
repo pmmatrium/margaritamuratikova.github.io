@@ -1,9 +1,3 @@
 main:
   - title: "Inicio"
     url: /
-  - title: "Casos de Estudio [WIP]"
-    url: /casos/
-  - title: "Sobre el Proyecto [WIP]"
-    url: /about/
-  - title: "Contacto [WIP]"
-    url: /contacto/
