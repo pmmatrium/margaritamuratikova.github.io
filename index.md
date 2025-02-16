@@ -36,6 +36,12 @@ Estos enlaces llevan a sus perfiles públicos según la información disponible 
 
 ---
 
+## 🔗 También Publicado en Medium  
+
+📌 Para mayor visibilidad, este caso también ha sido documentado en Medium.  
+🔗 **[Leer el artículo en Medium](https://medium.com/@margaritamuratikova/caso-margarita-muratikova-lo-que-los-emprendedores-deben-saber-bb31141aac22)**  
+
+
 ### 📂 Parte de *Rogue Investors*  
 📌 Este es uno de varios casos documentados en *Rogue Investors*.  
 
