@@ -50,15 +50,20 @@ En el ecosistema emprendedor, las relaciones entre fundadores e inversores puede
 
 ### **Los Hechos**
 
-En un contexto donde una startup tecnológica necesitaba capital para crecer, una inversora decidió realizar una inversión de 50.000 euros. Sin embargo, en lugar de adoptar un enfoque estratégico alineado con el crecimiento de la empresa, estructuró su inversión como un préstamo convertible o acuerdo de deuda, estableciendo un compromiso de devolución rígido sin considerar la naturaleza volátil de una startup en etapa temprana.
+En un contexto donde una startup tecnológica necesitaba capital para crecer, la Sra. Muratikova decidió realizar una inversión de tipo Angel Investment en etapa Pre-Seed.
 
-El problema real surgió cuando, a pesar de múltiples intentos de negociación, se negó a firmar el acuerdo final, dejando la inversión en un estado de indefinición y generando incertidumbre en la planificación financiera de la empresa. Posteriormente, cuando la startup tomó la decisión estratégica de pivotar para mejorar su modelo de negocio, la inversora cortó toda comunicación con los fundadores y trasladó la gestión del caso a su representante legal, sin más interacciones directas con los emprendedores.
+La empresa 
 
-Este comportamiento derivó en un conflicto legal innecesario, consumiendo tiempo y recursos que podrían haberse destinado al crecimiento del negocio. En lugar de colaborar en la evolución de la empresa, su enfoque poco alineado con la dinámica de startups añadió obstáculos a la continuidad del proyecto.
+El problema real surgió cuando, a pesar de múltiples intentos de negociación y una vez había transferido los fondos, se negó a firmar el acuerdo, dejando la inversión en un estado de indefinición y generando incertidumbre en la planificación financiera de la empresa.
+La Sra Muratikova, mientras tanto, contactó a otros inversores con la finalidad de que inviertan en la empresa.
+
+Posteriormente, cuando la startup tomó la decisión estratégica de pivotar para mejorar su modelo de negocio, la inversora cortó toda comunicación con los fundadores y trasladó la gestión del caso a su representante legal, sin más interacciones directas con los emprendedores ni con los otros inversores que ella misma había contactado y, en algunos casos, decidieron invertir en la empresa. 
+
+Este comportamiento derivó en un conflicto ético, moral y legal, consumiendo tiempo y recursos que podrían haberse destinado al crecimiento del negocio. En lugar de colaborar en la evolución de la empresa, su enfoque poco alineado con la dinámica de startups añadió obstáculos a la continuidad del proyecto.
 
 ### **Fuentes Oficiales**
 
-Este caso se basa en documentación oficial, incluyendo el contrato firmado y elevado a público, que establece claramente los términos de la inversión y las obligaciones de ambas partes.
+Este caso se basa en documentación oficial, incluyendo el contrato firmado y elevado a público, que establece claramente los términos y las obligaciones de ambas partes.
 
 ### **📖 Lecciones para Emprendedores**
 
