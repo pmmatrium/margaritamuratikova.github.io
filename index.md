@@ -86,15 +86,15 @@ No se trata solo de conseguir financiación, sino de construir relaciones sólid
 
 ---
 
-## 🔗 También Publicado en Medium  
+## También Publicado en Medium  
 
 📌 Este caso también ha sido documentado en Medium.  
-🔗 **[Leer el artículo en Medium](https://medium.com/@margaritamuratikova/caso-margarita-muratikova-lo-que-los-emprendedores-deben-saber-bb31141aac22)**  
+**[Leer el artículo en Medium](https://medium.com/@margaritamuratikova/caso-margarita-muratikova-lo-que-los-emprendedores-deben-saber-bb31141aac22)**  
 
 ---
 
 ### 📂 Parte de *Problematic Investors*  
-📌 Este es uno de varios casos documentados en *Problematic Investors*, una iniciativa que busca generar conciencia sobre la importancia de evaluar a los inversionistas antes de aceptar capital.
+Este es uno de varios casos documentados en *Problematic Investors*, una iniciativa que busca generar conciencia sobre la importancia de evaluar a los inversionistas antes de aceptar capital.
 
 ### 📌 Lecciones para Emprendedores  
 ✅ Verificar la trayectoria real de un inversionista antes de aceptar dinero.  
