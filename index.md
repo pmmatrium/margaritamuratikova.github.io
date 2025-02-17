@@ -101,6 +101,6 @@ Este es uno de varios casos documentados en *Problematic Investors*, una iniciat
 ✅ No firmar contratos sin asesoría legal experta en startups.  
 ✅ Establecer mecanismos de resolución de conflictos desde el inicio.  
 
-### **Ver otros inversionistas analizados:** Próximamente.  
+**Ver otros inversionistas analizados:** Próximamente.  
 
-### **¿Tuviste una experiencia similar?** Próximamente habilitaremos una plataforma para compartir casos verificados.  
+**¿Tuviste una experiencia similar?** Próximamente habilitaremos una plataforma para compartir casos verificados.  
