@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "Margarita Muratikova - Caso de Estudio"
+title: "Margarita Muratikova - Inversora"
 description: "Documentamos casos de inversionistas que han generado controversias o conflictos contractuales en startups."
 ---
 
-## ❌ Margarita Muratikova - Caso de Estudio  
+## ❌ Margarita Muratikova - Invesora
 
 **Este sitio forma parte de la iniciativa _Problematic Investors_, un proyecto que documenta experiencias de startups con inversionistas que han generado controversias o conflictos contractuales.**  
 
@@ -12,7 +12,7 @@ description: "Documentamos casos de inversionistas que han generado controversia
 
 ---
 
-### 📍 Perfil  
+## 📍 Perfil  
 🔹 **Nombre:** Margarita Muratikova  
 
 🔹 **Tipo de inversionista:** Business Angel  
@@ -24,7 +24,9 @@ description: "Documentamos casos de inversionistas que han generado controversia
 🔗 [LinkedIn](https://es.linkedin.com/in/margarita-muratikova)  
 🔗 [Instagram](https://www.instagram.com/jackie_gva)  
 
-### 📍 Inversión en cuestión
+## 📍 Inversiones
+
+###Caso 1:
 
 🔹 **Rango de Inversión:** Entre 50.000€ y 100.000€
 
