@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "Margarita Muratikova - Inversora"
+title: "Margarita Muratikova - Inversora Business Angel"
 description: "Documentamos casos de inversionistas que han generado controversias o conflictos contractuales en startups."
 ---
 
-## ❌ Margarita Muratikova - Invesora
+## ❌ Margarita Muratikova - Inversora Business Angel
 
 **Este sitio forma parte de la iniciativa _Problematic Investors_, un proyecto que documenta experiencias de startups con inversionistas que han generado controversias o conflictos contractuales.**  
 
